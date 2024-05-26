@@ -1,0 +1,13 @@
+body
+{
+background-image: url("Mounika-Portfolio/public/images/background.jpg");
+background-size: 1400px 700px;
+background-repeat: no-repeat;
+background-position: center;
+}
+.shade
+{
+background-color: rgba(0, 0, 0, 0.3);
+height: 100vh;
+margin-top: -10px;
+}
